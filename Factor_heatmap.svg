@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Factor heatmap">
+  <rect width="900" height="520" fill="#fbfbfd"/>
+  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Тепловая карта факторов</text>
+  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Чем темнее ячейка, тем сильнее фактор в средних оценках модели.</text>
+
+  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
+    <text x="165" y="105" font-weight="700">Запад</text>
+    <text x="270" y="105" font-weight="700">Экономика</text>
+    <text x="395" y="105" font-weight="700">Горбачев</text>
+    <text x="520" y="105" font-weight="700">Нац. вопрос</text>
+    <text x="660" y="105" font-weight="700">Внутр. кризис</text>
+
+    <text x="40" y="150" font-weight="700">ChatGPT</text>
+    <rect x="160" y="128" width="92" height="34" rx="4" fill="#dbeafe"/><text x="194" y="150">1.0</text>
+    <rect x="270" y="128" width="92" height="34" rx="4" fill="#93c5fd"/><text x="304" y="150">2.6</text>
+    <rect x="400" y="128" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="434" y="150">1.9</text>
+    <rect x="530" y="128" width="92" height="34" rx="4" fill="#60a5fa"/><text x="564" y="150">3.1</text>
+    <rect x="670" y="128" width="92" height="34" rx="4" fill="#2563eb"/><text x="704" y="150" fill="#fff">4.4</text>
+
+    <text x="40" y="205" font-weight="700">Gemini</text>
+    <rect x="160" y="183" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="194" y="205">1.4</text>
+    <rect x="270" y="183" width="92" height="34" rx="4" fill="#60a5fa"/><text x="304" y="205">3.0</text>
+    <rect x="400" y="183" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="434" y="205">2.0</text>
+    <rect x="530" y="183" width="92" height="34" rx="4" fill="#3b82f6"/><text x="564" y="205" fill="#fff">3.4</text>
+    <rect x="670" y="183" width="92" height="34" rx="4" fill="#1d4ed8"/><text x="704" y="205" fill="#fff">4.5</text>
+
+    <text x="40" y="260" font-weight="700">GigaChat</text>
+    <rect x="160" y="238" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="194" y="260">1.6</text>
+    <rect x="270" y="238" width="92" height="34" rx="4" fill="#60a5fa"/><text x="304" y="260">2.8</text>
+    <rect x="400" y="238" width="92" height="34" rx="4" fill="#93c5fd"/><text x="434" y="260">2.1</text>
+    <rect x="530" y="238" width="92" height="34" rx="4" fill="#3b82f6"/><text x="564" y="260" fill="#fff">3.3</text>
+    <rect x="670" y="238" width="92" height="34" rx="4" fill="#1e40af"/><text x="704" y="260" fill="#fff">4.6</text>
+
+    <text x="40" y="315" font-weight="700">YandexGPT</text>
+    <rect x="160" y="293" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="194" y="315">1.4</text>
+    <rect x="270" y="293" width="92" height="34" rx="4" fill="#60a5fa"/><text x="304" y="315">2.9</text>
+    <rect x="400" y="293" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="434" y="315">1.6</text>
+    <rect x="530" y="293" width="92" height="34" rx="4" fill="#3b82f6"/><text x="564" y="315" fill="#fff">3.3</text>
+    <rect x="670" y="293" width="92" height="34" rx="4" fill="#1d4ed8"/><text x="704" y="315" fill="#fff">4.5</text>
+
+    <text x="40" y="370" font-weight="700">DeepSeek</text>
+    <rect x="160" y="348" width="92" height="34" rx="4" fill="#bfdbfe"/><text x="194" y="370">1.6</text>
+    <rect x="270" y="348" width="92" height="34" rx="4" fill="#60a5fa"/><text x="304" y="370">2.9</text>
+    <rect x="400" y="348" width="92" height="34" rx="4" fill="#93c5fd"/><text x="434" y="370">2.2</text>
+    <rect x="530" y="348" width="92" height="34" rx="4" fill="#3b82f6"/><text x="564" y="370" fill="#fff">3.3</text>
+    <rect x="670" y="348" width="92" height="34" rx="4" fill="#2563eb"/><text x="704" y="370" fill="#fff">4.3</text>
+  </g>
+
+  <text x="40" y="470" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Паттерн хорошо виден: самый темный столбец почти у всех - внутренний кризис, затем национальный вопрос и экономика.</text>
+</svg>

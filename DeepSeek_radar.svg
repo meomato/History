@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600">
+  <rect width="760" height="600" fill="#fbfbf8"/>
+  <text x="380" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#222">DeepSeek: радар средних баллов</text>
+  <text x="380" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#666">Показаны средние без учета отказа P12, чтобы отказ не занижал тематические оценки</text>
+
+  <g transform="translate(0,10)">
+    <polygon points="320,90 491,214 426,416 214,416 149,214" fill="none" stroke="#d8d8d2" stroke-width="1"/>
+    <polygon points="320,126 456.8,225.2 404.8,386.8 235.2,386.8 183.2,225.2" fill="none" stroke="#e0e0dc" stroke-width="1"/>
+    <polygon points="320,162 422.6,236.6 383.6,356.8 256.4,356.8 217.4,236.6" fill="none" stroke="#e7e7e3" stroke-width="1"/>
+    <polygon points="320,198 388.4,247.8 362.4,326.4 277.6,326.4 251.6,247.8" fill="none" stroke="#eeeeea" stroke-width="1"/>
+    <polygon points="320,234 354.2,258.9 341.2,296.2 298.8,296.2 285.8,258.9" fill="none" stroke="#f2f2ef" stroke-width="1"/>
+
+    <g stroke="#c9c9c2" stroke-width="1">
+      <line x1="320" y1="270" x2="320" y2="90"/>
+      <line x1="320" y1="270" x2="491" y2="214"/>
+      <line x1="320" y1="270" x2="426" y2="416"/>
+      <line x1="320" y1="270" x2="214" y2="416"/>
+      <line x1="320" y1="270" x2="149" y2="214"/>
+    </g>
+
+    <text x="320" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333">Запад</text>
+    <text x="512" y="216" font-family="Arial, sans-serif" font-size="13" fill="#333">Экономика</text>
+    <text x="438" y="435" font-family="Arial, sans-serif" font-size="13" fill="#333">Горбачев</text>
+    <text x="190" y="435" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#333">Нац. вопрос</text>
+    <text x="130" y="216" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#333">Внутр. кризис</text>
+
+    <polygon points="320,205.2 429.6,234.4 381.4,354.5 243.8,374.8 162.5,218.8" fill="#2f80ed" fill-opacity="0.18" stroke="#2f80ed" stroke-width="2"/>
+    <polygon points="320,219.6 422.7,236.6 364.5,331.2 248.0,369.0 162.5,218.8" fill="#27ae60" fill-opacity="0.16" stroke="#27ae60" stroke-width="2"/>
+    <polygon points="320,208.8 422.7,236.6 364.5,331.2 248.0,369.0 162.5,218.8" fill="#f2994a" fill-opacity="0.16" stroke="#f2994a" stroke-width="2"/>
+    <polygon points="320,205.2 419.3,237.7 364.5,331.2 243.8,374.8 162.5,218.8" fill="#9b51e0" fill-opacity="0.16" stroke="#9b51e0" stroke-width="2"/>
+
+    <g font-family="Arial, sans-serif" font-size="13" fill="#222">
+      <text x="520" y="320" font-weight="700">Серии</text>
+      <rect x="520" y="334" width="12" height="12" fill="#2f80ed" fill-opacity="0.7"/><text x="540" y="344">обычный + без поиска</text>
+      <rect x="520" y="358" width="12" height="12" fill="#27ae60" fill-opacity="0.7"/><text x="540" y="368">DeepThink + без поиска</text>
+      <rect x="520" y="382" width="12" height="12" fill="#f2994a" fill-opacity="0.7"/><text x="540" y="392">обычный + умный поиск</text>
+      <rect x="520" y="406" width="12" height="12" fill="#9b51e0" fill-opacity="0.7"/><text x="540" y="416">DeepThink + умный поиск</text>
+    </g>
+  </g>
+
+  <text x="380" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#777">Главный профиль: высокий внутренний кризис и национальный вопрос; слабее выражен внешний фактор.</text>
+</svg>

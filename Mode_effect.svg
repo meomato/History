@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" role="img" aria-label="Mode effect chart">
+  <rect width="880" height="520" fill="#fbfbfd"/>
+  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Эффект поиска и специальных режимов</text>
+  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Сравнение средних X/Y внутри моделей, где есть разные режимы.</text>
+
+  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
+    <text x="40" y="115" font-weight="700">ChatGPT: поиск почти не сдвигает X</text>
+    <line x1="120" y1="145" x2="620" y2="145" stroke="#d1d5db"/>
+    <circle cx="247" cy="145" r="9" fill="#2563eb"/><text x="262" y="149">без поиска X=-3.45</text>
+    <circle cx="240" cy="145" r="9" fill="#60a5fa"/><text x="390" y="149">с поиском X=-3.50</text>
+
+    <text x="40" y="205" font-weight="700">DeepSeek: поиск тоже почти не меняет X</text>
+    <line x1="120" y1="235" x2="620" y2="235" stroke="#d1d5db"/>
+    <circle cx="275" cy="235" r="9" fill="#16a34a"/><text x="290" y="239">без поиска X=-2.95</text>
+    <circle cx="270" cy="235" r="9" fill="#86efac"/><text x="435" y="239">с поиском X=-3.05</text>
+
+    <text x="40" y="295" font-weight="700">GigaChat: исследование и рассуждение близки к обычному режиму</text>
+    <line x1="120" y1="325" x2="620" y2="325" stroke="#d1d5db"/>
+    <circle cx="245" cy="325" r="9" fill="#0ea5e9"/><text x="260" y="329">обычный X=-3.3</text>
+    <circle cx="245" cy="325" r="9" fill="#f97316"/><text x="390" y="329">исследование X=-3.3</text>
+    <circle cx="255" cy="325" r="9" fill="#22c55e"/><text x="570" y="329">рассуждение X=-3.1</text>
+
+    <text x="40" y="395" font-weight="700">YandexGPT: режим "Исследовать" снижает Y</text>
+    <line x1="120" y1="425" x2="620" y2="425" stroke="#d1d5db"/>
+    <circle cx="260" cy="425" r="9" fill="#f97316"/><text x="275" y="429">без рассуждения Y=0.6</text>
+    <circle cx="300" cy="425" r="9" fill="#f59e0b"/><text x="445" y="429">исследовать Y=-0.2</text>
+  </g>
+
+  <text x="40" y="490" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Вывод: режимы меняют тон и формат сильнее, чем базовую причинную рамку.</text>
+</svg>
