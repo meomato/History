@@ -40,6 +40,7 @@
 | [Тепловая карта](./charts/Factor_heatmap.svg) | Выраженность пяти факторов по моделям. |
 | [Устойчивость серий](./charts/Mode_effect.svg) | Диапазоны X/Y между поиском, специальными режимами, версиями и повторами. |
 | [Проверка гипотез](./charts/Hypotheses_confirmation.svg) | Степень подтверждения исходных предположений. |
+
 ## Охват
 
 - 7 сервисов: ChatGPT, Claude, Gemini, Grok, GigaChat, YandexGPT / Алиса и DeepSeek;
@@ -53,8 +54,10 @@
 ```text
 History/
 ├── README.md          краткий обзор и навигация
-├── docs/              результаты, гипотезы и методика
-├── models/            карточки семи сервисов
+├── docs/              результаты, гипотезы, методика и аудит источников
+├── models/            карточки семи сервисов и таблицы кодировки
+├── raw/               полные локальные ответы Claude и Grok
+├── sources/           источниковые самоотчеты и аудит по сериям
 └── charts/            все диаграммы SVG
 ```
 
@@ -75,6 +78,19 @@ History/
 - [Финальные результаты](./docs/FINAL_RESULTS.md)
 - [Проверка гипотез](./docs/HYPOTHESES.md)
 - [Методика и протокол](./docs/METHODOLOGY.md)
+- [Аудит источников](./docs/SOURCE_AUDIT.md)
+
+## Сырые ответы и источники
+
+- [Полные ответы Claude Haiku](./raw/claude/Claude_Haiku_raw_answers.md)
+- [Полные ответы Claude Sonnet](./raw/claude/Claude_Sonnet_raw_answers.md)
+- [Полные ответы Claude Opus](./raw/claude/Claude_Opus_raw_answers.md)
+- [Полные ответы Grok, прогон 1](./raw/grok/Grok_raw_answers.md)
+- [Полные ответы Grok, прогон 2](./raw/grok/Grok_raw_answers_R2.md)
+- [Полные ответы Grok, прогон 3](./raw/grok/Grok_raw_answers_R3.md)
+- [Сводный аудит источников всех моделей](./docs/SOURCE_AUDIT.md)
+
+Для ChatGPT, Gemini, GigaChat, YandexGPT и DeepSeek полные ответы зафиксированы через share-ссылки в карточках моделей; локально сохранены таблицы кодировки, выводы и источниковые самоотчеты.
 
 ## Основные графики
 
