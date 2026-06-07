@@ -1,42 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="590" viewBox="0 0 820 590" role="img" aria-label="Overall model radar">
-  <rect width="820" height="590" fill="#fbfbfd"/>
-  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Общий радар средних баллов</text>
-  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Средние по моделям, шкала 0-5.</text>
-
-  <g transform="translate(365 300)">
-    <polygon points="0,-190 180.74,-58.72 111.68,153.72 -111.68,153.72 -180.74,-58.72" fill="#ffffff" stroke="#d1d5db"/>
-    <polygon points="0,-152 144.59,-46.98 89.44,122.98 -89.44,122.98 -144.59,-46.98" fill="none" stroke="#e5e7eb"/>
-    <polygon points="0,-114 108.45,-35.23 67.01,92.23 -67.01,92.23 -108.45,-35.23" fill="none" stroke="#e5e7eb"/>
-    <polygon points="0,-76 72.30,-23.49 44.67,61.49 -44.67,61.49 -72.30,-23.49" fill="none" stroke="#e5e7eb"/>
-    <polygon points="0,-38 36.15,-11.74 22.34,30.74 -22.34,30.74 -36.15,-11.74" fill="none" stroke="#e5e7eb"/>
-    <line x1="0" y1="0" x2="0" y2="-190" stroke="#e5e7eb"/>
-    <line x1="0" y1="0" x2="180.74" y2="-58.72" stroke="#e5e7eb"/>
-    <line x1="0" y1="0" x2="111.68" y2="153.72" stroke="#e5e7eb"/>
-    <line x1="0" y1="0" x2="-111.68" y2="153.72" stroke="#e5e7eb"/>
-    <line x1="0" y1="0" x2="-180.74" y2="-58.72" stroke="#e5e7eb"/>
-
-    <polygon points="0,-38.0 92.15,-29.94 41.33,56.90 -68.75,94.64 -157.14,-51.05" fill="#2563eb" fill-opacity="0.12" stroke="#2563eb" stroke-width="2"/>
-    <polygon points="0,-51.3 108.44,-35.23 43.56,59.98 -74.83,103.01 -160.75,-52.22" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-width="2"/>
-    <polygon points="0,-60.8 100.10,-32.53 47.23,65.04 -73.71,101.47 -156.24,-50.76" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-width="2"/>
-    <polygon points="0,-60.8 99.01,-32.18 46.91,64.59 -73.71,101.47 -167.33,-54.56" fill="#0ea5e9" fill-opacity="0.12" stroke="#0ea5e9" stroke-width="2"/>
-    <polygon points="0,-54.3 105.89,-34.41 36.43,50.15 -74.38,102.40 -163.14,-53.19" fill="#f97316" fill-opacity="0.12" stroke="#f97316" stroke-width="2"/>
-    <polygon points="0,-57.0 112.06,-36.41 51.37,70.70 -73.71,101.47 -169.90,-55.20" fill="#111827" fill-opacity="0.10" stroke="#111827" stroke-width="2"/>
-    <polygon points="0,-49.4 86.76,-28.19 42.44,58.41 -69.24,95.31 -159.05,-51.67" fill="#0f766e" fill-opacity="0.10" stroke="#0f766e" stroke-width="2"/>
-
-    <text x="-28" y="-208" font-family="Arial, sans-serif" font-size="12" fill="#374151">Запад</text>
-    <text x="190" y="-60" font-family="Arial, sans-serif" font-size="12" fill="#374151">Экономика</text>
-    <text x="118" y="172" font-family="Arial, sans-serif" font-size="12" fill="#374151">Горбачев</text>
-    <text x="-178" y="172" font-family="Arial, sans-serif" font-size="12" fill="#374151">Нац. вопрос</text>
-    <text x="-260" y="-60" font-family="Arial, sans-serif" font-size="12" fill="#374151">Внутр. кризис</text>
-  </g>
-
-  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
-    <rect x="620" y="120" width="16" height="16" fill="#2563eb"/><text x="646" y="133">ChatGPT</text>
-    <rect x="620" y="146" width="16" height="16" fill="#a855f7"/><text x="646" y="159">Gemini</text>
-    <rect x="620" y="172" width="16" height="16" fill="#0ea5e9"/><text x="646" y="185">GigaChat</text>
-    <rect x="620" y="198" width="16" height="16" fill="#f97316"/><text x="646" y="211">YandexGPT</text>
-    <rect x="620" y="224" width="16" height="16" fill="#22c55e"/><text x="646" y="237">DeepSeek</text>
-    <rect x="620" y="250" width="16" height="16" fill="#111827"/><text x="646" y="263">Grok</text>
-    <rect x="620" y="276" width="16" height="16" fill="#0f766e"/><text x="646" y="289">Claude</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="620" viewBox="0 0 820 620" role="img" aria-label="Общий радар моделей и baseline">
+<rect width="820" height="620" fill="#fbfbfd"/>
+<text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Общий радар моделей и baseline</text>
+<text x="40" y="70" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4b5563">Пять факторов, шкала 0-5.</text>
+<polygon points="360.0,278.0 395.2,303.6 381.7,344.9 338.3,344.9 324.8,303.6" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,241.0 430.4,292.1 403.5,374.9 316.5,374.9 289.6,292.1" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,204.0 465.6,280.7 425.2,404.8 294.8,404.8 254.4,280.7" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,167.0 500.8,269.3 447.0,434.7 273.0,434.7 219.2,269.3" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,130.0 535.9,257.8 468.7,464.7 251.3,464.7 184.1,257.8" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="360" y1="315" x2="360.0" y2="130.0" stroke="#d1d5db"/>
+<text x="360.0" y="94.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Запад</text>
+<line x1="360" y1="315" x2="535.9" y2="257.8" stroke="#d1d5db"/>
+<text x="570.2" y="246.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Экономика</text>
+<line x1="360" y1="315" x2="468.7" y2="464.7" stroke="#d1d5db"/>
+<text x="489.9" y="493.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Горбачев</text>
+<line x1="360" y1="315" x2="251.3" y2="464.7" stroke="#d1d5db"/>
+<text x="230.1" y="493.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Нац. вопрос</text>
+<line x1="360" y1="315" x2="184.1" y2="257.8" stroke="#d1d5db"/>
+<text x="149.8" y="246.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Внутр. кризис</text>
+<polygon points="360.0,263.2 459.0,282.8 403.5,374.9 289.5,412.1 202.2,263.7" fill="#7c3aed" fill-opacity="0.16" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="360.0" cy="263.2" r="4" fill="#7c3aed"/>
+<circle cx="459.0" cy="282.8" r="4" fill="#7c3aed"/>
+<circle cx="403.5" cy="374.9" r="4" fill="#7c3aed"/>
+<circle cx="289.5" cy="412.1" r="4" fill="#7c3aed"/>
+<circle cx="202.2" cy="263.7" r="4" fill="#7c3aed"/>
+<rect x="610" y="120" width="16" height="16" fill="#7c3aed"/>
+<text x="636" y="133" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">LLM average</text>
+<polygon points="360.0,226.2 469.1,279.6 427.4,407.8 286.1,416.8 194.6,261.3" fill="#dc2626" fill-opacity="0.16" stroke="#dc2626" stroke-width="3"/>
+<circle cx="360.0" cy="226.2" r="4" fill="#dc2626"/>
+<circle cx="469.1" cy="279.6" r="4" fill="#dc2626"/>
+<circle cx="427.4" cy="407.8" r="4" fill="#dc2626"/>
+<circle cx="286.1" cy="416.8" r="4" fill="#dc2626"/>
+<circle cx="194.6" cy="261.3" r="4" fill="#dc2626"/>
+<rect x="610" y="150" width="16" height="16" fill="#dc2626"/>
+<text x="636" y="163" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Мединский / Торкунов</text>
+<polygon points="360.0,237.3 493.7,271.6 444.8,431.7 286.1,416.8 184.1,257.8" fill="#2563eb" fill-opacity="0.16" stroke="#2563eb" stroke-width="3"/>
+<circle cx="360.0" cy="237.3" r="4" fill="#2563eb"/>
+<circle cx="493.7" cy="271.6" r="4" fill="#2563eb"/>
+<circle cx="444.8" cy="431.7" r="4" fill="#2563eb"/>
+<circle cx="286.1" cy="416.8" r="4" fill="#2563eb"/>
+<circle cx="184.1" cy="257.8" r="4" fill="#2563eb"/>
+<rect x="610" y="180" width="16" height="16" fill="#2563eb"/>
+<text x="636" y="193" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Зубок</text>
 </svg>

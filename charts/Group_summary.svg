@@ -1,41 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" role="img" aria-label="Group summary chart">
-  <rect width="880" height="520" fill="#fbfbfd"/>
-  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Средние по группам моделей</text>
-  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Западные: ChatGPT + Gemini + Grok + Claude. Российские: GigaChat + YandexGPT. Восточные: DeepSeek.</text>
-
-  <g font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
-    <line x1="150" y1="110" x2="150" y2="415" stroke="#d1d5db"/>
-    <line x1="250" y1="110" x2="250" y2="415" stroke="#eef2f7"/>
-    <line x1="350" y1="110" x2="350" y2="415" stroke="#eef2f7"/>
-    <line x1="450" y1="110" x2="450" y2="415" stroke="#eef2f7"/>
-    <line x1="550" y1="110" x2="550" y2="415" stroke="#eef2f7"/>
-    <line x1="650" y1="110" x2="650" y2="415" stroke="#d1d5db"/>
-    <text x="146" y="438">0</text><text x="246" y="438">1</text><text x="346" y="438">2</text>
-    <text x="446" y="438">3</text><text x="546" y="438">4</text><text x="646" y="438">5</text>
-  </g>
-
-  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
-    <text x="40" y="126" font-weight="700">Запад</text>
-    <rect x="150" y="112" width="130" height="18" rx="3" fill="#6366f1"/><text x="288" y="126">Западные 1.3</text>
-    <rect x="150" y="136" width="150" height="18" rx="3" fill="#0ea5e9"/><text x="308" y="150">Российские 1.5</text>
-    <rect x="150" y="160" width="160" height="18" rx="3" fill="#22c55e"/><text x="318" y="174">DeepSeek 1.6</text>
-
-    <text x="40" y="216" font-weight="700">Экономика</text>
-    <rect x="150" y="202" width="280" height="18" rx="3" fill="#6366f1"/><text x="438" y="216">Западные 2.8</text>
-    <rect x="150" y="226" width="290" height="18" rx="3" fill="#0ea5e9"/><text x="448" y="240">Российские 2.9</text>
-    <rect x="150" y="250" width="290" height="18" rx="3" fill="#22c55e"/><text x="448" y="264">DeepSeek 2.9</text>
-
-    <text x="40" y="306" font-weight="700">Внутр. кризис</text>
-    <rect x="150" y="292" width="450" height="18" rx="3" fill="#6366f1"/><text x="608" y="306">Западные 4.5</text>
-    <rect x="150" y="316" width="455" height="18" rx="3" fill="#0ea5e9"/><text x="613" y="330">Российские 4.6</text>
-    <rect x="150" y="340" width="430" height="18" rx="3" fill="#22c55e"/><text x="588" y="354">DeepSeek 4.3</text>
-  </g>
-
-  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
-    <rect x="690" y="120" width="16" height="16" fill="#6366f1"/><text x="716" y="133">западные</text>
-    <rect x="690" y="146" width="16" height="16" fill="#0ea5e9"/><text x="716" y="159">российские</text>
-    <rect x="690" y="172" width="16" height="16" fill="#22c55e"/><text x="716" y="185">восточные</text>
-  </g>
-
-  <text x="40" y="490" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Главное: группы расходятся по роли Запада слабо; все очень высоко ставят внутренний кризис.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="620" viewBox="0 0 940 620" role="img" aria-label="Сравнение групп">
+<rect width="940" height="620" fill="#fbfbfd"/>
+<text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Сравнение групп</text>
+<text x="40" y="70" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4b5563">Средние по группам: западные, российские, восточные модели и литература.</text>
+<text x="200" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">Запад</text>
+<rect x="170" y="342.4" width="16" height="67.6" fill="#2563eb"/>
+<rect x="188" y="332.0" width="16" height="78.0" fill="#0ea5e9"/>
+<rect x="206" y="326.8" width="16" height="83.2" fill="#22c55e"/>
+<rect x="224" y="293.0" width="16" height="117.0" fill="#7c3aed"/>
+<text x="345" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">Экономика</text>
+<rect x="315" y="265.7" width="16" height="144.3" fill="#2563eb"/>
+<rect x="333" y="261.8" width="16" height="148.2" fill="#0ea5e9"/>
+<rect x="351" y="259.2" width="16" height="150.8" fill="#22c55e"/>
+<rect x="369" y="230.6" width="16" height="179.4" fill="#7c3aed"/>
+<text x="490" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">Горбачев</text>
+<rect x="460" y="304.7" width="16" height="105.3" fill="#2563eb"/>
+<rect x="478" y="313.8" width="16" height="96.2" fill="#0ea5e9"/>
+<rect x="496" y="295.6" width="16" height="114.4" fill="#22c55e"/>
+<rect x="514" y="228.0" width="16" height="182.0" fill="#7c3aed"/>
+<text x="635" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">Нац. вопрос</text>
+<rect x="605" y="243.6" width="16" height="166.4" fill="#2563eb"/>
+<rect x="623" y="238.4" width="16" height="171.6" fill="#0ea5e9"/>
+<rect x="641" y="238.4" width="16" height="171.6" fill="#22c55e"/>
+<rect x="659" y="233.2" width="16" height="176.8" fill="#7c3aed"/>
+<text x="780" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">Внутр. кризис</text>
+<rect x="750" y="176.0" width="16" height="234.0" fill="#2563eb"/>
+<rect x="768" y="173.4" width="16" height="236.6" fill="#0ea5e9"/>
+<rect x="786" y="186.4" width="16" height="223.6" fill="#22c55e"/>
+<rect x="804" y="157.8" width="16" height="252.2" fill="#7c3aed"/>
+<line x1="150" y1="410" x2="880" y2="410" stroke="#9ca3af"/>
+<rect x="58" y="116" width="14" height="14" fill="#2563eb"/>
+<text x="84" y="128" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Западные</text>
+<rect x="58" y="144" width="14" height="14" fill="#0ea5e9"/>
+<text x="84" y="156" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Российские</text>
+<rect x="58" y="172" width="14" height="14" fill="#22c55e"/>
+<text x="84" y="184" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Восточные</text>
+<rect x="58" y="200" width="14" height="14" fill="#7c3aed"/>
+<text x="84" y="212" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Литература</text>
+<text x="40" y="470" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Группа</text>
+<text x="210" y="470" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">X</text>
+<text x="270" y="470" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Y</text>
+<text x="330" y="470" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Серий</text>
+<text x="400" y="470" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Ответов</text>
+<text x="40" y="498" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Западные</text>
+<text x="210" y="498" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">-3.4</text>
+<text x="270" y="498" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">0.8</text>
+<text x="330" y="498" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">14</text>
+<text x="400" y="498" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">210</text>
+<text x="40" y="524" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Российские</text>
+<text x="210" y="524" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">-3.2</text>
+<text x="270" y="524" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">0.7</text>
+<text x="330" y="524" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">6</text>
+<text x="400" y="524" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">90</text>
+<text x="40" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Восточные</text>
+<text x="210" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">-3.0</text>
+<text x="270" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">0.8</text>
+<text x="330" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">4</text>
+<text x="400" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">60</text>
+<text x="40" y="576" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Литература</text>
+<text x="210" y="576" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">-3.6</text>
+<text x="270" y="576" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">2.9</text>
+<text x="330" y="576" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">2</text>
+<text x="400" y="576" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">30</text>
 </svg>

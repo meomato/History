@@ -1,56 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="590" viewBox="0 0 820 590" role="img" aria-label="Overall model compass">
-  <rect width="820" height="590" fill="#fbfbfd"/>
-  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Общий историко-интерпретационный компас</text>
-  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">X: внутренние причины - внешнее давление. Y: неизбежность - роль решений и ошибок.</text>
-
-  <rect x="120" y="92" width="420" height="420" fill="#ffffff" stroke="#d1d5db"/>
-  <line x1="120" y1="302" x2="540" y2="302" stroke="#9ca3af" stroke-width="1.5"/>
-  <line x1="330" y1="92" x2="330" y2="512" stroke="#9ca3af" stroke-width="1.5"/>
-  <g stroke="#eef2f7" stroke-width="1">
-    <line x1="162" y1="92" x2="162" y2="512"/><line x1="204" y1="92" x2="204" y2="512"/>
-    <line x1="246" y1="92" x2="246" y2="512"/><line x1="288" y1="92" x2="288" y2="512"/>
-    <line x1="372" y1="92" x2="372" y2="512"/><line x1="414" y1="92" x2="414" y2="512"/>
-    <line x1="456" y1="92" x2="456" y2="512"/><line x1="498" y1="92" x2="498" y2="512"/>
-    <line x1="120" y1="134" x2="540" y2="134"/><line x1="120" y1="176" x2="540" y2="176"/>
-    <line x1="120" y1="218" x2="540" y2="218"/><line x1="120" y1="260" x2="540" y2="260"/>
-    <line x1="120" y1="344" x2="540" y2="344"/><line x1="120" y1="386" x2="540" y2="386"/>
-    <line x1="120" y1="428" x2="540" y2="428"/><line x1="120" y1="470" x2="540" y2="470"/>
-  </g>
-
-  <text x="116" y="535" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">внутренние причины</text>
-  <text x="438" y="535" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">внешнее давление</text>
-  <text x="548" y="100" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">ошибки / случайность</text>
-  <text x="548" y="510" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">неизбежность</text>
-
-  <circle cx="183.0" cy="289.4" r="10" fill="#2563eb" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="198" y="292" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">ChatGPT</text>
-
-  <circle cx="191.4" cy="257.9" r="10" fill="#a855f7" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="206" y="252" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Gemini</text>
-
-  <circle cx="195.6" cy="260.0" r="10" fill="#0ea5e9" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="210" y="275" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">GigaChat</text>
-
-  <circle cx="191.4" cy="285.2" r="10" fill="#f97316" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="206" y="308" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">YandexGPT</text>
-
-  <circle cx="204.0" cy="268.4" r="10" fill="#22c55e" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="220" y="266" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">DeepSeek</text>
-
-  <circle cx="183.0" cy="260.0" r="10" fill="#111827" fill-opacity="0.9" stroke="#ffffff" stroke-width="2"/>
-  <text x="130" y="247" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Grok</text>
-
-  <rect x="184.4" y="261.4" width="14" height="14" transform="rotate(45 191.4 268.4)" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
-
-  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
-    <rect x="600" y="120" width="16" height="16" fill="#2563eb"/><text x="626" y="133">ChatGPT</text>
-    <rect x="600" y="146" width="16" height="16" fill="#a855f7"/><text x="626" y="159">Gemini</text>
-    <rect x="600" y="172" width="16" height="16" fill="#0ea5e9"/><text x="626" y="185">GigaChat</text>
-    <rect x="600" y="198" width="16" height="16" fill="#f97316"/><text x="626" y="211">YandexGPT</text>
-    <rect x="600" y="224" width="16" height="16" fill="#22c55e"/><text x="626" y="237">DeepSeek</text>
-    <rect x="600" y="250" width="16" height="16" fill="#111827"/><text x="626" y="263">Grok</text>
-    <rect x="600" y="276" width="16" height="16" fill="#0f766e"/><text x="626" y="289">Claude</text>
-  </g>
-
-  <text x="40" y="565" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Все точки сгруппированы слева: модели сходятся на внутреннем системном кризисе как главной рамке.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="660" viewBox="0 0 980 660" role="img" aria-label="Общий историко-интерпретационный компас">
+<rect width="980" height="660" fill="#fbfbfd"/>
+<text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Общий историко-интерпретационный компас</text>
+<text x="40" y="70" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4b5563">X: внутренние причины - внешнее давление. Y: неизбежность - роль решений и ошибок.</text>
+<rect x="120" y="94" width="430" height="430" fill="#ffffff" stroke="#d1d5db"/>
+<line x1="163.0" y1="94" x2="163.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="137.0" x2="550" y2="137.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="206.0" y1="94" x2="206.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="180.0" x2="550" y2="180.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="249.0" y1="94" x2="249.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="223.0" x2="550" y2="223.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="292.0" y1="94" x2="292.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="266.0" x2="550" y2="266.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="335.0" y1="94" x2="335.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="309.0" x2="550" y2="309.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="378.0" y1="94" x2="378.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="352.0" x2="550" y2="352.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="421.0" y1="94" x2="421.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="395.0" x2="550" y2="395.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="464.0" y1="94" x2="464.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="438.0" x2="550" y2="438.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="507.0" y1="94" x2="507.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="481.0" x2="550" y2="481.0" stroke="#eef2f7" stroke-width="1"/>
+<line x1="120" y1="309.0" x2="550" y2="309.0" stroke="#9ca3af" stroke-width="1.5"/>
+<line x1="335.0" y1="94" x2="335.0" y2="524" stroke="#9ca3af" stroke-width="1.5"/>
+<text x="116" y="549" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#4b5563">внутренние причины</text>
+<text x="445" y="549" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#4b5563">внешнее давление</text>
+<text x="562" y="103" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#4b5563">ошибки / решения</text>
+<text x="562" y="524" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#4b5563">структура / неизбежность</text>
+<circle cx="184.5" cy="296.1" r="6" fill="#2563eb" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="199.5" y="300.1" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">ChatGPT</text>
+<circle cx="193.1" cy="261.7" r="6" fill="#a855f7" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="208.1" y="253.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Gemini</text>
+<circle cx="184.5" cy="266.0" r="6" fill="#111827" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="126.5" y="253.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Grok</text>
+<rect x="187.1" y="268.6" width="12" height="12" transform="rotate(45 193.1 274.6)" fill="#0f766e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="207.1" y="281.6" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Claude</text>
+<circle cx="197.4" cy="266.0" r="6" fill="#0ea5e9" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="212.4" y="283.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">GigaChat</text>
+<circle cx="193.1" cy="291.8" r="6" fill="#f97316" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="208.1" y="322.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">YandexGPT</text>
+<circle cx="206.0" cy="274.6" r="6" fill="#22c55e" fill-opacity="0.9" stroke="#ffffff" stroke-width="1.5"/>
+<text x="221.0" y="277.6" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">DeepSeek</text>
+<polygon points="201.7,205.7 214.7,218.7 201.7,231.7 188.7,218.7" fill="#dc2626" fill-opacity="0.95" stroke="#ffffff" stroke-width="2"/>
+<text x="217.7" y="206.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Мединский / Торкунов</text>
+<rect x="148.70000000000002" y="139.9" width="20" height="20" transform="rotate(45 158.70000000000002 149.9)" fill="#7c3aed" fill-opacity="0.95" stroke="#ffffff" stroke-width="2"/>
+<text x="174.7" y="137.9" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Зубок</text>
+<rect x="620" y="100" width="16" height="16" fill="#2563eb"/>
+<text x="646" y="113" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">ChatGPT</text>
+<rect x="620" y="127" width="16" height="16" fill="#a855f7"/>
+<text x="646" y="140" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Gemini</text>
+<rect x="620" y="154" width="16" height="16" fill="#111827"/>
+<text x="646" y="167" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Grok</text>
+<rect x="620" y="181" width="16" height="16" fill="#0f766e"/>
+<text x="646" y="194" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Claude</text>
+<rect x="620" y="208" width="16" height="16" fill="#0ea5e9"/>
+<text x="646" y="221" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">GigaChat</text>
+<rect x="620" y="235" width="16" height="16" fill="#f97316"/>
+<text x="646" y="248" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">YandexGPT</text>
+<rect x="620" y="262" width="16" height="16" fill="#22c55e"/>
+<text x="646" y="275" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">DeepSeek</text>
+<rect x="620" y="289" width="16" height="16" fill="#dc2626"/>
+<text x="646" y="302" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Мединский / Торкунов</text>
+<rect x="620" y="316" width="16" height="16" fill="#7c3aed"/>
+<text x="646" y="329" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Зубок, Collapse</text>
+<text x="40" y="626" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#6b7280">Зубок расположен еще левее и выше: внутренняя причинность + высокая роль решений и ошибок.</text>
 </svg>
