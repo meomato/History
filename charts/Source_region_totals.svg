@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="590" viewBox="0 0 940 590" role="img" aria-label="Общее количество источников по регионам">
+  <rect width="940" height="590" fill="#fbfbfd"/>
+  <text x="40" y="44" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Сколько источников каждого региона назвали модели</text>
+  <text x="40" y="72" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Всего 243 названные или реконструированные позиции во всех итоговых самоотчетах.</text>
+
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="110" y1="460" x2="880" y2="460"/>
+    <line x1="110" y1="385" x2="880" y2="385"/>
+    <line x1="110" y1="310" x2="880" y2="310"/>
+    <line x1="110" y1="235" x2="880" y2="235"/>
+    <line x1="110" y1="160" x2="880" y2="160"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="12" fill="#6b7280" text-anchor="end">
+    <text x="98" y="464">0</text>
+    <text x="98" y="389">25</text>
+    <text x="98" y="314">50</text>
+    <text x="98" y="239">75</text>
+    <text x="98" y="164">100</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="145" y="262" width="105" height="198" rx="5" fill="#dc2626"/>
+    <text x="197" y="247" font-size="22" font-weight="700" fill="#991b1b">66</text>
+    <text x="197" y="490" font-size="13" font-weight="700" fill="#111827">Российские</text>
+
+    <rect x="295" y="148" width="105" height="312" rx="5" fill="#2563eb"/>
+    <text x="347" y="133" font-size="22" font-weight="700" fill="#1d4ed8">104</text>
+    <text x="347" y="490" font-size="13" font-weight="700" fill="#111827">Западные /</text>
+    <text x="347" y="507" font-size="13" font-weight="700" fill="#111827">международные</text>
+
+    <rect x="445" y="349" width="105" height="111" rx="5" fill="#7c3aed"/>
+    <text x="497" y="334" font-size="22" font-weight="700" fill="#6d28d9">37</text>
+    <text x="497" y="490" font-size="13" font-weight="700" fill="#111827">Советские /</text>
+    <text x="497" y="507" font-size="13" font-weight="700" fill="#111827">постсоветские</text>
+
+    <rect x="595" y="442" width="105" height="18" rx="5" fill="#16a34a"/>
+    <text x="647" y="427" font-size="22" font-weight="700" fill="#15803d">6</text>
+    <text x="647" y="490" font-size="13" font-weight="700" fill="#111827">Китайские</text>
+
+    <rect x="745" y="370" width="105" height="90" rx="5" fill="#9ca3af"/>
+    <text x="797" y="355" font-size="22" font-weight="700" fill="#4b5563">30</text>
+    <text x="797" y="490" font-size="13" font-weight="700" fill="#111827">Смешанные /</text>
+    <text x="797" y="507" font-size="13" font-weight="700" fill="#111827">неизвестные</text>
+  </g>
+
+  <rect x="40" y="535" width="850" height="34" rx="5" fill="#f3f4f6"/>
+  <text x="55" y="557" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">Повторы между сериями сохраняются: график измеряет состав самоотчетов, а не число уникальных произведений.</text>
+</svg>

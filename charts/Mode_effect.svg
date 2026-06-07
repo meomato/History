@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="650" viewBox="0 0 1120 650" role="img" aria-label="Диапазон координат X и Y между протестированными сериями">
+  <rect width="1120" height="650" fill="#fbfbfd"/>
+  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Устойчивость результатов между режимами и версиями</text>
+  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Показаны реальные координаты серий: линия соединяет крайние значения, точка означает совпадение результатов.</text>
+
+  <text x="220" y="108" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2937">X: внутренние ↔ внешние причины</text>
+  <text x="700" y="108" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2937">Y: неизбежность ↔ решения людей</text>
+
+  <g font-family="Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">
+    <text x="220" y="132">−3.8</text><text x="288" y="132">−3.6</text><text x="356" y="132">−3.4</text>
+    <text x="424" y="132">−3.2</text><text x="492" y="132">−3.0</text><text x="560" y="132">−2.8</text>
+    <text x="700" y="132">−0.4</text><text x="776" y="132">0 · баланс</text><text x="851" y="132">0.4</text>
+    <text x="927" y="132">0.8</text><text x="1002" y="132">1.2</text><text x="1040" y="132">1.4</text>
+  </g>
+
+  <g stroke="#e5e7eb">
+    <line x1="220" y1="140" x2="220" y2="548"/><line x1="288" y1="140" x2="288" y2="548"/>
+    <line x1="356" y1="140" x2="356" y2="548"/><line x1="424" y1="140" x2="424" y2="548"/>
+    <line x1="492" y1="140" x2="492" y2="548"/><line x1="560" y1="140" x2="560" y2="548"/>
+    <line x1="700" y1="140" x2="700" y2="548"/><line x1="776" y1="140" x2="776" y2="548" stroke="#9ca3af" stroke-dasharray="4 4"/>
+    <line x1="851" y1="140" x2="851" y2="548"/><line x1="927" y1="140" x2="927" y2="548"/>
+    <line x1="1002" y1="140" x2="1002" y2="548"/><line x1="1040" y1="140" x2="1040" y2="548"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="14" fill="#111827">
+    <text x="40" y="174" font-weight="700">ChatGPT</text>
+    <text x="40" y="232" font-weight="700">Gemini</text>
+    <text x="40" y="290" font-weight="700">Grok</text>
+    <text x="40" y="348" font-weight="700">Claude</text>
+    <text x="40" y="406" font-weight="700">GigaChat</text>
+    <text x="40" y="464" font-weight="700">YandexGPT</text>
+    <text x="40" y="522" font-weight="700">DeepSeek</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="10.5" fill="#6b7280">
+    <text x="40" y="189">поиск и Thinking</text>
+    <text x="40" y="247">Flash / Lite и рассуждение</text>
+    <text x="40" y="305">три повтора Fast</text>
+    <text x="40" y="363">Haiku / Sonnet / Opus</text>
+    <text x="40" y="421">обычный / исследование / рассуждение</text>
+    <text x="40" y="479">три интерфейсных режима</text>
+    <text x="40" y="537">поиск и DeepThink</text>
+  </g>
+
+  <g stroke-linecap="round" stroke-width="4">
+    <!-- ChatGPT -->
+    <line x1="288" y1="170" x2="356" y2="170" stroke="#2563eb"/><circle cx="288" cy="170" r="6" fill="#2563eb"/><circle cx="356" cy="170" r="6" fill="#2563eb"/>
+    <line x1="795" y1="170" x2="870" y2="170" stroke="#2563eb"/><circle cx="795" cy="170" r="6" fill="#2563eb"/><circle cx="870" cy="170" r="6" fill="#2563eb"/>
+    <!-- Gemini -->
+    <line x1="322" y1="228" x2="458" y2="228" stroke="#a855f7"/><circle cx="322" cy="228" r="6" fill="#a855f7"/><circle cx="458" cy="228" r="6" fill="#a855f7"/>
+    <line x1="946" y1="228" x2="1021" y2="228" stroke="#a855f7"/><circle cx="946" cy="228" r="6" fill="#a855f7"/><circle cx="1021" cy="228" r="6" fill="#a855f7"/>
+    <!-- Grok -->
+    <circle cx="322" cy="286" r="8" fill="#111827"/>
+    <circle cx="964" cy="286" r="8" fill="#111827"/>
+    <!-- Claude -->
+    <circle cx="390" cy="344" r="8" fill="#0f766e"/>
+    <line x1="908" y1="344" x2="927" y2="344" stroke="#0f766e"/><circle cx="908" cy="344" r="6" fill="#0f766e"/><circle cx="927" cy="344" r="6" fill="#0f766e"/>
+    <!-- GigaChat -->
+    <line x1="390" y1="402" x2="458" y2="402" stroke="#0ea5e9"/><circle cx="390" cy="402" r="6" fill="#0ea5e9"/><circle cx="458" cy="402" r="6" fill="#0ea5e9"/>
+    <line x1="946" y1="402" x2="964" y2="402" stroke="#0ea5e9"/><circle cx="946" cy="402" r="6" fill="#0ea5e9"/><circle cx="964" cy="402" r="6" fill="#0ea5e9"/>
+    <!-- YandexGPT -->
+    <line x1="322" y1="460" x2="424" y2="460" stroke="#f97316"/><circle cx="322" cy="460" r="6" fill="#f97316"/><circle cx="424" cy="460" r="6" fill="#f97316"/>
+    <line x1="738" y1="460" x2="908" y2="460" stroke="#f97316"/><circle cx="738" cy="460" r="6" fill="#f97316"/><circle cx="908" cy="460" r="6" fill="#f97316"/>
+    <!-- DeepSeek -->
+    <line x1="458" y1="518" x2="526" y2="518" stroke="#22c55e"/><circle cx="458" cy="518" r="6" fill="#22c55e"/><circle cx="526" cy="518" r="6" fill="#22c55e"/>
+    <line x1="908" y1="518" x2="946" y2="518" stroke="#22c55e"/><circle cx="908" cy="518" r="6" fill="#22c55e"/><circle cx="946" cy="518" r="6" fill="#22c55e"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="11.5" fill="#374151">
+    <text x="370" y="162">−3.6…−3.4</text><text x="880" y="162">0.1…0.5</text>
+    <text x="466" y="220">−3.5…−3.1</text><text x="928" y="220">0.9…1.3</text>
+    <text x="334" y="280">−3.5</text><text x="976" y="280">1.0</text>
+    <text x="402" y="338">−3.3</text><text x="939" y="338">0.7…0.8</text>
+    <text x="466" y="394">−3.3…−3.1</text><text x="976" y="394">0.9…1.0</text>
+    <text x="432" y="452">−3.5…−3.2</text><text x="916" y="452">−0.2…0.7</text>
+    <text x="442" y="510">−3.1…−2.9</text><text x="958" y="510">0.7…0.9</text>
+  </g>
+
+  <rect x="40" y="575" width="1000" height="48" rx="6" fill="#f3f4f6"/>
+  <text x="58" y="598" font-family="Arial, sans-serif" font-size="12.5" font-weight="700" fill="#374151">Вывод:</text>
+  <text x="112" y="598" font-family="Arial, sans-serif" font-size="12.5" fill="#4b5563">Базовая трактовка устойчива: X меняется мало. Сильнее всего режимы повлияли на Y у YandexGPT; три прогона Grok совпали.</text>
+  <text x="58" y="615" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">Это сравнение устойчивости внутри сервисов, а не изолированная оценка влияния только поиска.</text>
+</svg>

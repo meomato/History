@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="720" viewBox="0 0 980 720" role="img" aria-label="Доля регионов в источниках каждой модели">
+  <rect width="980" height="720" fill="#fbfbfd"/>
+  <text x="40" y="44" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Какую долю источников каждого региона назвала модель</text>
+  <text x="40" y="72" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Каждая полоса равна 100% источниковых позиций, перечисленных моделью во всех ее сериях.</text>
+
+  <g font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
+    <text x="210" y="112">0%</text><text x="370" y="112">25%</text><text x="530" y="112">50%</text>
+    <text x="690" y="112">75%</text><text x="835" y="112">100%</text>
+  </g>
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="210" y1="120" x2="210" y2="590"/><line x1="370" y1="120" x2="370" y2="590"/>
+    <line x1="530" y1="120" x2="530" y2="590"/><line x1="690" y1="120" x2="690" y2="590"/>
+    <line x1="850" y1="120" x2="850" y2="590"/>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <text x="40" y="161" font-size="15" font-weight="700" fill="#111827">ChatGPT · 119</text>
+    <rect x="210" y="140" width="118" height="30" fill="#dc2626"/>
+    <rect x="328" y="140" width="366" height="30" fill="#2563eb"/>
+    <rect x="694" y="140" width="49" height="30" fill="#7c3aed"/>
+    <rect x="743" y="140" width="16" height="30" fill="#16a34a"/>
+    <rect x="759" y="140" width="91" height="30" fill="#9ca3af"/>
+    <text x="269" y="160" font-size="11" text-anchor="middle" fill="#fff">18%</text>
+    <text x="511" y="160" font-size="11" text-anchor="middle" fill="#fff">57%</text>
+    <text x="804" y="160" font-size="11" text-anchor="middle" fill="#fff">14%</text>
+
+    <text x="40" y="226" font-size="15" font-weight="700" fill="#111827">Gemini · 29</text>
+    <rect x="210" y="205" width="88" height="30" fill="#dc2626"/>
+    <rect x="298" y="205" width="199" height="30" fill="#2563eb"/>
+    <rect x="497" y="205" width="221" height="30" fill="#7c3aed"/>
+    <rect x="718" y="205" width="22" height="30" fill="#16a34a"/>
+    <rect x="740" y="205" width="110" height="30" fill="#9ca3af"/>
+    <text x="398" y="225" font-size="11" text-anchor="middle" fill="#fff">31%</text>
+    <text x="607" y="225" font-size="11" text-anchor="middle" fill="#fff">34%</text>
+    <text x="795" y="225" font-size="11" text-anchor="middle" fill="#fff">17%</text>
+
+    <text x="40" y="291" font-size="15" font-weight="700" fill="#111827">Grok · 15</text>
+    <rect x="210" y="270" width="128" height="30" fill="#dc2626"/>
+    <rect x="338" y="270" width="128" height="30" fill="#2563eb"/>
+    <rect x="466" y="270" width="128" height="30" fill="#7c3aed"/>
+    <rect x="594" y="270" width="43" height="30" fill="#16a34a"/>
+    <rect x="637" y="270" width="213" height="30" fill="#9ca3af"/>
+    <text x="274" y="290" font-size="11" text-anchor="middle" fill="#fff">20%</text>
+    <text x="402" y="290" font-size="11" text-anchor="middle" fill="#fff">20%</text>
+    <text x="530" y="290" font-size="11" text-anchor="middle" fill="#fff">20%</text>
+    <text x="743" y="290" font-size="11" text-anchor="middle" fill="#fff">33%</text>
+
+    <text x="40" y="356" font-size="15" font-weight="700" fill="#111827">GigaChat · 11</text>
+    <rect x="210" y="335" width="640" height="30" fill="#dc2626"/>
+    <text x="530" y="355" font-size="11" text-anchor="middle" fill="#fff">100% российские</text>
+
+    <text x="40" y="421" font-size="15" font-weight="700" fill="#111827">YandexGPT · 16</text>
+    <rect x="210" y="400" width="320" height="30" fill="#dc2626"/>
+    <rect x="530" y="400" width="80" height="30" fill="#2563eb"/>
+    <rect x="610" y="400" width="160" height="30" fill="#7c3aed"/>
+    <rect x="770" y="400" width="40" height="30" fill="#16a34a"/>
+    <rect x="810" y="400" width="40" height="30" fill="#9ca3af"/>
+    <text x="370" y="420" font-size="11" text-anchor="middle" fill="#fff">50%</text>
+    <text x="690" y="420" font-size="11" text-anchor="middle" fill="#fff">25%</text>
+
+    <text x="40" y="486" font-size="15" font-weight="700" fill="#111827">DeepSeek · 31</text>
+    <rect x="210" y="465" width="227" height="30" fill="#dc2626"/>
+    <rect x="437" y="465" width="186" height="30" fill="#2563eb"/>
+    <rect x="623" y="465" width="186" height="30" fill="#7c3aed"/>
+    <rect x="809" y="465" width="41" height="30" fill="#9ca3af"/>
+    <text x="323" y="485" font-size="11" text-anchor="middle" fill="#fff">35%</text>
+    <text x="530" y="485" font-size="11" text-anchor="middle" fill="#fff">29%</text>
+    <text x="716" y="485" font-size="11" text-anchor="middle" fill="#fff">29%</text>
+
+    <text x="40" y="551" font-size="15" font-weight="700" fill="#111827">Claude · 22</text>
+    <rect x="210" y="530" width="204" height="30" fill="#dc2626"/>
+    <rect x="414" y="530" width="378" height="30" fill="#2563eb"/>
+    <rect x="792" y="530" width="58" height="30" fill="#7c3aed"/>
+    <text x="312" y="550" font-size="11" text-anchor="middle" fill="#fff">32%</text>
+    <text x="603" y="550" font-size="11" text-anchor="middle" fill="#fff">59%</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    <rect x="90" y="620" width="16" height="16" rx="3" fill="#dc2626"/><text x="116" y="633">российские</text>
+    <rect x="245" y="620" width="16" height="16" rx="3" fill="#2563eb"/><text x="271" y="633">западные / международные</text>
+    <rect x="490" y="620" width="16" height="16" rx="3" fill="#7c3aed"/><text x="516" y="633">советские / постсоветские</text>
+    <rect x="725" y="620" width="16" height="16" rx="3" fill="#16a34a"/><text x="751" y="633">китайские</text>
+    <rect x="90" y="650" width="16" height="16" rx="3" fill="#9ca3af"/><text x="116" y="663">смешанные / неизвестные</text>
+  </g>
+  <text x="40" y="698" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">Доли относятся к самоотчетам моделей; у Claude показаны 22 уникальные ассоциативные позиции общего аудита.</text>
+</svg>
