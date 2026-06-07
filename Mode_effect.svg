@@ -26,5 +26,6 @@
     <circle cx="300" cy="425" r="9" fill="#f59e0b"/><text x="445" y="429">исследовать Y=-0.2</text>
   </g>
 
-  <text x="40" y="490" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Вывод: режимы меняют тон и формат сильнее, чем базовую причинную рамку.</text>
+  <text x="40" y="475" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Grok не включен в парное сравнение: протестирован только Fast 4.3 со встроенным поиском.</text>
+  <text x="40" y="495" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Вывод: режимы меняют тон и формат сильнее, чем базовую причинную рамку.</text>
 </svg>

@@ -20,29 +20,29 @@
 
   <g font-family="Arial, sans-serif" font-size="14" fill="#111827">
     <text x="40" y="125">H1 западные без поиска</text>
-    <rect x="160" y="108" width="240" height="24" rx="4" fill="#60a5fa"/>
-    <text x="410" y="126" font-weight="700">2.0</text>
+    <rect x="160" y="108" width="360" height="24" rx="4" fill="#60a5fa"/>
+    <text x="530" y="126" font-weight="700">3.0</text>
 
     <text x="40" y="175">H2 русскоязычные</text>
-    <rect x="160" y="158" width="300" height="24" rx="4" fill="#38bdf8"/>
-    <text x="470" y="176" font-weight="700">2.5</text>
+    <rect x="160" y="158" width="480" height="24" rx="4" fill="#22c55e"/>
+    <text x="650" y="176" font-weight="700">4.0</text>
 
     <text x="40" y="225">H3 поиск и западный нарратив</text>
-    <rect x="160" y="208" width="180" height="24" rx="4" fill="#f59e0b"/>
-    <text x="350" y="226" font-weight="700">1.5</text>
+    <rect x="160" y="208" width="240" height="24" rx="4" fill="#f59e0b"/>
+    <text x="410" y="226" font-weight="700">2.0</text>
 
     <text x="40" y="275">H4 повторы</text>
     <rect x="160" y="258" width="120" height="24" rx="4" fill="#f97316"/>
     <text x="290" y="276" font-weight="700">1.0</text>
 
     <text x="40" y="325">H5 культурный bias</text>
-    <rect x="160" y="308" width="360" height="24" rx="4" fill="#a78bfa"/>
-    <text x="530" y="326" font-weight="700">3.0</text>
+    <rect x="160" y="308" width="420" height="24" rx="4" fill="#a78bfa"/>
+    <text x="590" y="326" font-weight="700">3.5</text>
 
     <text x="40" y="375">H6 DeepSeek</text>
     <rect x="160" y="358" width="480" height="24" rx="4" fill="#22c55e"/>
     <text x="650" y="376" font-weight="700">4.0</text>
   </g>
 
-  <text x="40" y="490" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Самые сильные подтверждения: нейтральность DeepSeek и общий культурный/source bias. Самые слабые: резкий эффект поиска и повторы.</text>
+  <text x="40" y="490" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Три прогона Grok показали одинаковый профиль: причинная рамка стабильнее конкретных формулировок.</text>
 </svg>
