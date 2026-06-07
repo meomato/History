@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="620" viewBox="0 0 820 620" role="img" aria-label="Зубок: радар факторов">
+<rect width="820" height="620" fill="#fbfbfd"/>
+<text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Зубок: радар факторов</text>
+<text x="40" y="70" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4b5563">Пять факторов, шкала 0-5.</text>
+<polygon points="360.0,278.0 395.2,303.6 381.7,344.9 338.3,344.9 324.8,303.6" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,241.0 430.4,292.1 403.5,374.9 316.5,374.9 289.6,292.1" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,204.0 465.6,280.7 425.2,404.8 294.8,404.8 254.4,280.7" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,167.0 500.8,269.3 447.0,434.7 273.0,434.7 219.2,269.3" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<polygon points="360.0,130.0 535.9,257.8 468.7,464.7 251.3,464.7 184.1,257.8" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="360" y1="315" x2="360.0" y2="130.0" stroke="#d1d5db"/>
+<text x="360.0" y="94.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Запад</text>
+<line x1="360" y1="315" x2="535.9" y2="257.8" stroke="#d1d5db"/>
+<text x="570.2" y="246.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Экономика</text>
+<line x1="360" y1="315" x2="468.7" y2="464.7" stroke="#d1d5db"/>
+<text x="489.9" y="493.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Горбачев</text>
+<line x1="360" y1="315" x2="251.3" y2="464.7" stroke="#d1d5db"/>
+<text x="230.1" y="493.8" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Нац. вопрос</text>
+<line x1="360" y1="315" x2="184.1" y2="257.8" stroke="#d1d5db"/>
+<text x="149.8" y="246.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827" text-anchor="middle">Внутр. кризис</text>
+<polygon points="360.0,237.3 493.7,271.6 444.8,431.7 286.1,416.8 184.1,257.8" fill="#7c3aed" fill-opacity="0.16" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="360.0" cy="237.3" r="4" fill="#7c3aed"/>
+<circle cx="493.7" cy="271.6" r="4" fill="#7c3aed"/>
+<circle cx="444.8" cy="431.7" r="4" fill="#7c3aed"/>
+<circle cx="286.1" cy="416.8" r="4" fill="#7c3aed"/>
+<circle cx="184.1" cy="257.8" r="4" fill="#7c3aed"/>
+<rect x="610" y="120" width="16" height="16" fill="#7c3aed"/>
+<text x="636" y="133" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Зубок</text>
+</svg>

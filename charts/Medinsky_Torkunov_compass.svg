@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-label="Мединский / Торкунов: компас источника">
+  <rect width="900" height="620" fill="#fbfbfd"/>
+  <text x="40" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Мединский / Торкунов: компас источника</text>
+  <text x="40" y="70" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">X: внутренние причины - внешнее давление. Y: неизбежность - роль решений и ошибок.</text>
+  <rect x="120" y="94" width="430" height="430" fill="#ffffff" stroke="#d1d5db"/>
+  <line x1="163.0" y1="94" x2="163.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="137.0" x2="550" y2="137.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="206.0" y1="94" x2="206.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="180.0" x2="550" y2="180.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="249.0" y1="94" x2="249.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="223.0" x2="550" y2="223.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="292.0" y1="94" x2="292.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="266.0" x2="550" y2="266.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="335.0" y1="94" x2="335.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="309.0" x2="550" y2="309.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="378.0" y1="94" x2="378.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="352.0" x2="550" y2="352.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="421.0" y1="94" x2="421.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="395.0" x2="550" y2="395.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="464.0" y1="94" x2="464.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="438.0" x2="550" y2="438.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="507.0" y1="94" x2="507.0" y2="524" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="481.0" x2="550" y2="481.0" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="120" y1="309.0" x2="550" y2="309.0" stroke="#9ca3af" stroke-width="1.5"/>
+  <line x1="335.0" y1="94" x2="335.0" y2="524" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="116" y="549" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">внутренние причины</text>
+  <text x="445" y="549" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">внешнее давление</text>
+  <text x="562" y="103" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">ошибки / решения</text>
+  <text x="562" y="524" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">структура / неизбежность</text>
+  <polygon points="201.7,205.7 214.7,218.7 201.7,231.7 188.7,218.7" fill="#dc2626" fill-opacity="0.95" stroke="#ffffff" stroke-width="2"/>
+  <text x="217.7" y="206.7" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Мединский/Торкунов</text>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#111827">
+    <polygon points="608,111 617,120 608,129 599,120" fill="#dc2626"/><text x="626" y="125">Мединский/Торкунов baseline</text>
+  </g>
+  <text x="40" y="586" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Точка источника: внутренние причины с высоким акцентом на решения и роль Запада.</text>
+</svg>
